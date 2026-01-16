@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on school projects<br>👯 I’m looking to collaborate on school projects<br>🤝 I’m looking for help with school projects<br>🌱 I’m currently learning java, pyhton, js<br>💬 Ask me about nothing<br>⚡ Fun fact: Grass is green
+🔭 I’m currently working on school projects<br>👯 I’m looking to collaborate on school projects<br>🤝 I’m looking for help with school projects<br>🌱 I’m currently learning my school projects<br>💬 Ask me about my school projects<br>⚡ Fun fact: I'm not done with my school projects
 
 
 ## 🌐 Socials:
